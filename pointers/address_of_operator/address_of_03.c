@@ -7,7 +7,7 @@ int main(void)
 
 	/*
 		error 
-		the left operand of the assignmenet operator
+		the left operand of the assignment operator
 		should be an L value expression
 	*/
 }

@@ -1,0 +1,4 @@
+De Morgan kuralları
+
+!(exp1 && exp2)  ile   !exp1 || !exp2 aynı anlamda
+!(exp1 || exp2)  ile   !exp1 && !exp2 aynı anlamda
